@@ -1,0 +1,3 @@
+- load fontawesome locally
+- transfer inline img styles to css
+- try replace px to responsive
